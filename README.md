@@ -59,7 +59,7 @@ Initial Reading Scores by Grade
 Secondary Reading Scores by Grade 
 ![challenge reading grade](/Resources/challenge_grade_read.png)
 
-* Scores by school spending
+Scores by school spending
 
 Initial Groupings by School Spending
 ![initial spending](/Resources/init spending.png)
@@ -67,7 +67,7 @@ Initial Groupings by School Spending
 Secondary Groupings by School Spending 
 ![challenge spending](/Resources/challenge_spending.png)
 
-* Scores by school size
+Scores by school size
 
 Initial Groupings by School Size 
 ![initial size](/Resources/init size.png)
@@ -75,7 +75,7 @@ Initial Groupings by School Size
 Secondary Groupings by School Size 
 ![challenge size](/Resources/challange_size.png)
 
-* Scores by school type
+Scores by school type
 
 Initial Groupings by School Type 
 ![initial type](/Resources/init type.png)
