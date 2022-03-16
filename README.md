@@ -28,8 +28,11 @@ Secondary District Summary
 Initial Per School Summary 
 ![initial per school summary](/Resources/initial_perschool_summary.png)
 
-Secondary Per School Summary 
-![challenge per school summary](/Resources/challenge_perschool_summary.png)
+Secondary Per School Summary - Not Adjusted  
+![challenge per school summary](Resources/challenge_perschool_not_adj.png)
+
+Secondary Per School Summary - Adjusted 
+![challenge per school summary final] (Resources/challenge_perschool_adjusted.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
