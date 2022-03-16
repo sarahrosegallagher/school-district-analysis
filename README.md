@@ -80,7 +80,7 @@ Initial Groupings by School Size
 
 Secondary Groupings by School Size 
 
-![challenge size](/Resources/challange_size.png)
+![challenge size](/Resources/challenge_size.png)
 
 ### Scores by school type
 
