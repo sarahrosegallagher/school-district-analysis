@@ -17,22 +17,31 @@ The second analysis required replacing the ninth grade scores for Thomas High Sc
 
 ### How is the district summary affected?
 
+As seen below, (x). 
+
 Initial District Summary
+
 ![initial district summary](/Resources/initial_district_summary.png)
 
 Secondary District Summary 
+
 ![challenge district summary](Resources/formatted_challenge_district_summary.png)
 
 ### How is the school summary affected?
 
+The images below reflect three summaries: one for the initial analysis and two for the secondary analysis. The secondary analysis has two summaries because the student count needed to be adjusted for Thomas High School to exclude the 9th grade students. This is reflected in the very low passing percentages in the not adjusted summary vs the high passing percentages in the adjusted summary. The adjusted, more accurate summary shows little overall change in THS's passing percentages; they stayed high as is typical for the Charter Schools in this dataset (see summary by school type). 
+
 Initial Per School Summary 
+
 ![initial per school summary](/Resources/initial_perschool_summary.png)
 
 Secondary Per School Summary - Not Adjusted  
+
 ![challenge per school summary](Resources/challenge_perschool_not_adj.png)
 
 Secondary Per School Summary - Adjusted 
-![challenge per school summary final] (Resources/challenge_perschool_adjusted.png)
+
+![challenge per school summary final](Resources/challenge_perschool_adjusted.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
