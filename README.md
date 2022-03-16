@@ -41,23 +41,23 @@ Secondary Top 5 Performing Schools
 
 ### How does replacing the ninth-grade scores affect the following:
 
-* Math and reading scores by grade
+###Math and reading scores by grade
 
-  * Math Scores By Grade
+Math Scores By Grade
   
-  Initial Math Scores by Grade 
-  ![initial math grade](/Resources/init_grade_math.png)
+Initial Math Scores by Grade 
+![initial math grade](/Resources/init_grade_math.png)
 
-  Secondary Math Scores by Grade 
-  ![challenge math grade](/Resources/challenge_grade_math.png)
+Secondary Math Scores by Grade 
+![challenge math grade](/Resources/challenge_grade_math.png)
 
-  * Reading Scores By Grade
+Reading Scores By Grade
 
-  Initial Reading Scores by Grade 
-  ![initial reading grade](/Resources/init_grade_reading.png)
+Initial Reading Scores by Grade 
+![initial reading grade](/Resources/init_grade_read.png)
 
-  Secondary Reading Scores by Grade 
-  ![challenge reading grade](/Resources/challenge_grade_reading.png)
+Secondary Reading Scores by Grade 
+![challenge reading grade](/Resources/challenge_grade_read.png)
 
 * Scores by school spending
 
