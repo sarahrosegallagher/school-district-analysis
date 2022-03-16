@@ -21,7 +21,7 @@ Initial District Summary
 ![initial district summary](/Resources/initial_district_summary.png)
 
 Secondary District Summary 
-![challenge district summary](/Resources/challenge_district_summary.png)
+![challenge district summary](Resources/formatted_challenge_district_summary.png)
 
 ### How is the school summary affected?
 
