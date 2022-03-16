@@ -61,21 +61,27 @@ Secondary Reading Scores by Grade
 
 * Scores by school spending
 
-![](/Resources/)
+Initial Groupings by School Spending
+![initial spending](/Resources/init spending.png)
 
-![](/Resources/)
+Secondary Groupings by School Spending 
+![challenge spending](/Resources/challenge_spending.png)
 
 * Scores by school size
 
-![](/Resources/)
+Initial Groupings by School Size 
+![initial size](/Resources/init size.png)
 
-![](/Resources/)
+Secondary Groupings by School Size 
+![challenge size](/Resources/challange_size.png)
 
 * Scores by school type
 
-![](/Resources/)
+Initial Groupings by School Type 
+![initial type](/Resources/init type.png)
 
-![](/Resources/)
+Secondary Groupings by School Type 
+![challange type](/Resources/challenge_type.png)
 
 ## Summary: 
 
