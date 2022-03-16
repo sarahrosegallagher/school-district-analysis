@@ -45,7 +45,7 @@ Secondary Per School Summary - Adjusted
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-The tables below show Thomas High School's ranking in the top 5 performing schools before and after the exclusion of ninth grade scores. I have included the unformatted versions so that we can see the small changes; when the overall percentage is formatted to 0 decimal points, the change is not seen. 
+The tables below show Thomas High School's ranking in the top 5 performing schools before and after the exclusion of ninth grade scores. I have included the unformatted versions so that we can see the small changes; when the overall percentage is formatted to 0 decimal points, the change is not seen. Looking closely at the percentages, we can see that the % Passing Math, % Passing Reading, and % Overall Passing all fell by a small amount (between a tenth and a third of a percent for each).  
 
 Initial Top 5 Performing Schools
 ![initial top 5](/Resources/initial_top_5.png)
@@ -57,7 +57,9 @@ Secondary Top 5 Performing Schools
 
 
 ### Math Scores By Grade
-  
+
+The below tables for math and reading scores by grade show that THS ninth graders' scores have been replaced by NaN. 
+
 Initial Math Scores by Grade 
 
 ![initial math grade](/Resources/init_grade_math.png)
@@ -77,6 +79,8 @@ Secondary Reading Scores by Grade
 ![challenge reading grade](/Resources/challenge_grade_read.png)
 
 ### Scores by school spending
+
+The following three categories - spending, size, and type - show no significant change.  If we looked to more decimal places, we might see a very slight change that is not reflected here. 
 
 Initial Groupings by School Spending
 
@@ -109,4 +113,13 @@ Secondary Groupings by School Type
 
 ## Summary: 
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+To summarize, we can see the following changes in the summaries after adjusting our data for analysis:
+
+* Looking closely at the passing percentages for Thomas High School, we can see that the % Passing Math, % Passing Reading, and % Overall Passing all fell by a small amount (between a tenth and a third of a percent for each).  
+
+* The tables for math and reading scores by grade show that THS ninth graders' scores have been replaced by NaN. 
+
+* The Secondary Per School Summary had to be adjusted to change the total student count from including all four grade levels at THS to excluding the ninth graders. The not adjusted table shows that the passing percentages would have falled into the 60% range, whereas the adjusted table shows that the passing percentages maintain in the mid to high 90% range. 
+
+* No significant changes are seen when analyzing schools by spending, size, or type (with the caveat that these tables are formatted to a single decimal place or to a whole number). 
+
