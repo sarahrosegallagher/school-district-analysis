@@ -92,6 +92,7 @@ Secondary Groupings by School Type
 
 ![challange type](/Resources/challenge_type.png)
 
+
 ## Summary: 
 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
