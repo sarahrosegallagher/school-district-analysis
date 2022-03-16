@@ -17,7 +17,7 @@ The second analysis required replacing the ninth grade scores for Thomas High Sc
 
 ### How is the district summary affected?
 
-As seen below, (x). 
+As seen below, there is little to no affect on the overall district summary by excluding the reading and math scores of ninth graders from Thomas High School. 
 
 Initial District Summary
 
@@ -44,6 +44,8 @@ Secondary Per School Summary - Adjusted
 ![challenge per school summary final](Resources/challenge_perschool_adjusted.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+The tables below show Thomas High School's ranking in the top 5 performing schools before and after the exclusion of ninth grade scores. I have included the unformatted versions so that we can see the small changes; when the overall percentage is formatted to 0 decimal points, the change is not seen. 
 
 Initial Top 5 Performing Schools
 ![initial top 5](/Resources/initial_top_5.png)
