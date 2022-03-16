@@ -1,13 +1,25 @@
 # School District Analysis
 ## Overview of the school district analysis: 
 
-Explain the purpose of this analysis.
+This analysis generated dataframes using test data to inform school board decision making. There were two phases to this analysis: first, with complete data for all students from the included high schools and then, with select data excluded based on evidence of academic dishonesty. 
+
+The code for the first phase analysis can be found in PyCitySchools_Initial_Analysis. The first step was to explore and clean the data. Then I generated the first, overarching school district summary (calculating the number of students, number of schools, the total budget, test score averages, passing percentages). I also generated additional data frames: a summary for each school, high and low performing schools, average math and reading scores by grade, scores grouped school spending per student, scores grouped by school size, and scores grouped by school type. 
+
+The second analysis required replacing the ninth grade scores for Thomas High School with null values and then re-runing the school district analysis based on the modified data. This code can be found in PyCitySchools_Challenge. 
+
+## Tools:
+* Python 3.10.2
+* VS Code 1.65.0
+* Pandas
+* NumPy
 
 ## Results: 
 
-Using bulleted lists and images of DataFrames as support, address the following questions.
-
 ### How is the district summary affected?
+
+!(/Resources/challenge_district_summary.png)
+
+!(/Resources/initial_district_summary.png)
 
 ### How is the school summary affected?
 
