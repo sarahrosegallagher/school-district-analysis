@@ -66,7 +66,7 @@ Secondary Reading Scores by Grade
 
 Initial Groupings by School Spending
 
-![initial spending](/Resources/init spending.png)
+![initial spending](/Resources/init_spending.png)
 
 Secondary Groupings by School Spending 
 
@@ -76,7 +76,7 @@ Secondary Groupings by School Spending
 
 Initial Groupings by School Size 
 
-![initial size](/Resources/init size.png)
+![initial size](/Resources/init_size.png)
 
 Secondary Groupings by School Size 
 
@@ -86,7 +86,7 @@ Secondary Groupings by School Size
 
 Initial Groupings by School Type 
 
-![initial type](/Resources/init type.png)
+![initial type](/Resources/init_type.png)
 
 Secondary Groupings by School Type 
 
