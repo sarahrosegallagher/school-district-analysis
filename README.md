@@ -17,9 +17,10 @@ The second analysis required replacing the ninth grade scores for Thomas High Sc
 
 ### How is the district summary affected?
 
-!(/Resources/challenge_district_summary.png)
+![initial district summary](/Resources/initial_district_summary.png)
 
-!(/Resources/initial_district_summary.png)
+![challenge district summary](/Resources/challenge_district_summary.png)
+
 
 ### How is the school summary affected?
 
