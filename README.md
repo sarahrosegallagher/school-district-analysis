@@ -17,34 +17,47 @@ The second analysis required replacing the ninth grade scores for Thomas High Sc
 
 ### How is the district summary affected?
 
+Initial District Summary
 ![initial district summary](/Resources/initial_district_summary.png)
 
+Secondary District Summary 
 ![challenge district summary](/Resources/challenge_district_summary.png)
 
 ### How is the school summary affected?
 
+Initial Per School Summary 
 ![initial per school summary](/Resources/initial_perschool_summary.png)
 
+Secondary Per School Summary 
 ![challenge per school summary](/Resources/challenge_perschool_summary.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+Initial Top 5 Performing Schools
 ![initial top 5](/Resources/initial_top_5.png)
 
+Secondary Top 5 Performing Schools 
 ![challenge top 5](/Resources/challenge_top_5.png)
 
 ### How does replacing the ninth-grade scores affect the following:
 
 * Math and reading scores by grade
-** Math Scores By Grade
-![initial math grade](/Resources/init_grade_math.png)
 
-![challenge math grade](/Resources/challenge_grade_math.png)
+  * Math Scores By Grade
+  
+  Initial Math Scores by Grade 
+  ![initial math grade](/Resources/init_grade_math.png)
 
-** Reading Scores By Grade
-![initial reading grade](/Resources/init_grade_reading.png)
+  Secondary Math Scores by Grade 
+  ![challenge math grade](/Resources/challenge_grade_math.png)
 
-![challenge reading grade](/Resources/challenge_grade_reading.png)
+  * Reading Scores By Grade
+
+  Initial Reading Scores by Grade 
+  ![initial reading grade](/Resources/init_grade_reading.png)
+
+  Secondary Reading Scores by Grade 
+  ![challenge reading grade](/Resources/challenge_grade_reading.png)
 
 * Scores by school spending
 
